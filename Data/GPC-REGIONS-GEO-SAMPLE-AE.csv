@@ -1,0 +1,26 @@
+iso;country;language;level;type;name;region1;region2;region3;region4;iso2;fips;nuts;hasc;stat
+AE;United Arab Emirates;EN;0;Country;United Arab Emirates;;;;;;;;;
+AE;United Arab Emirates;EN;1;Emirates;Abu Dhabi;Abu Dhabi;;;;AE-AZ;AE01;;AE.AZ;
+AE;United Arab Emirates;EN;1;Emirates;Ajman;Ajman;;;;AE-AJ;AE02;;AE.AJ;
+AE;United Arab Emirates;EN;1;Emirates;Dubai;Dubai;;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;1;Emirates;Fujairah;Fujairah;;;;AE-FU;AE04;;AE.FU;
+AE;United Arab Emirates;EN;1;Emirates;Ras al-Khaimah;Ras al-Khaimah;;;;AE-RK;AE05;;AE.RK;
+AE;United Arab Emirates;EN;1;Emirates;Sharjah;Sharjah;;;;AE-SH;AE06;;AE.SH;
+AE;United Arab Emirates;EN;1;Emirates;Umm al-Quwain;Umm al-Quwain;;;;AE-UQ;AE07;;AE.UQ;
+AE;United Arab Emirates;EN;2;Districts;Al Awir;Dubai;Al Awir;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Al Wajedah, Al Bahriah;Dubai;Al Wajedah, Al Bahriah;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Bur Dubai;Dubai;Bur Dubai;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Deira;Dubai;Deira;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Dubai Land;Dubai;Dubai Land;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Hadaeg Mohammed Bin Rashid;Dubai;Hadaeg Mohammed Bin Rashid;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Jabal Ali;Dubai;Jabal Ali;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Jumeira;Dubai;Jumeira;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Madinat Al Maktoum;Dubai;Madinat Al Maktoum;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Madinat Al Qudra;Dubai;Madinat Al Qudra;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Mushrif;Dubai;Mushrif;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Nakhlat Deira;Dubai;Nakhlat Deira;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Ras Al Khor;Dubai;Ras Al Khor;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Districts;Zaa'Beel;Dubai;Zaa'Beel;;;AE-DU;AE03;;AE.DU;
+AE;United Arab Emirates;EN;2;Municipal Regions;Abu Dhabi;Abu Dhabi;Abu Dhabi;;;AE-AZ;AE01;;AE.AZ;
+AE;United Arab Emirates;EN;2;Municipal Regions;Al-Ain;Abu Dhabi;Al-Ain;;;AE-AZ;AE01;;AE.AZ;
+AE;United Arab Emirates;EN;2;Municipal Regions;Al-Dhafra;Abu Dhabi;Al-Dhafra;;;AE-AZ;AE01;;AE.AZ;
